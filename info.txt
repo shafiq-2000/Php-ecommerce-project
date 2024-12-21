@@ -1,0 +1,18 @@
+1.admin
+admin: admin@gmail.com  password:123
+
+2.User
+a.name->dobir email->dobir@gmail.com password->ddd
+a.name->mim email->mim@gmail.com password->mmm
+a.name->abrar email->abrar@gmail.com password->aaa
+
+3.Databas name-> e_commerce_site
+
+4.Feature
+1. Here the user has to register by verifying his email and then login.
+2. If he forgets his password later, the user can create a new password by verifying his email.
+3. The user cannot buy anything without login. If he wants to buy anything or contact support, he must register.
+........
+........
+........
+........
